@@ -1,4 +1,4 @@
-# Portal
+# React-Portal
 
 [Nest.js](https://nestjs.com), [TypeORM](https://typeorm.io), [GraphQL](https://graphql.org/), [LDAP Service](https://github.com/wisekaa03/nestjs-ldap), [Passport](http://www.passportjs.org/), [Next.js (v9)](https://nextjs.org), [React.js](https://reactjs.org/), [Material UI (v4)](https://material-ui.com)
 
@@ -56,7 +56,7 @@
 
 ### Database Setup
 
-Portal uses [PostgreSQL](https://www.postgresql.org).
+React-Portal uses [PostgreSQL](https://www.postgresql.org).
 
 #### For Windows Users
 
